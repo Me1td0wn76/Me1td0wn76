@@ -23,7 +23,7 @@
   
 ### 💡 私の師匠
 
-- 尊敬する師匠: [@師匠](https://github.com/torasuke-cse) — Javaの奥深さを教えてくれた人  
+- 尊敬する師匠: [@torasuke](https://github.com/torasuke-cse) — Javaの奥深さを教えてくれた人  
   
   
 ![Me1td0wn76's GitHub stats](https://github-readme-stats.vercel.app/api?username=Me1td0wn76&show_icons=true&theme=tokyonight)  
