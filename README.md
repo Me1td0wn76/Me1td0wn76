@@ -1,5 +1,36 @@
 ## Hi there 👋
 
+こんにちは！Me1td0wn76のGitHubプロフィールへようこそ。
+
+### 🛠️ スキル！
+- **Java / Spring Boot**  
+- **JavaScript / Node.js / React**  
+- **Astro / HTML / CSS**  
+- **Python / PowerShell**  
+  
+  
+### 🌱 今取り組んでいること
+- 新しいWebアプリの開発
+- Pythonの画像処理
+
+### 💬 お問い合わせ
+- Twitter: [@Pretendepretenders_001](https://x.com/pretenders_001)  
+  
+### Blog
+[yama-pro](https://yama-pro.blog/)
+### ⚡ 一言
+人生、だいたいJavaでなんとかなる。  
+  
+### 💡 私の師匠
+
+- 尊敬する師匠: [@師匠](https://github.com/torasuke-cse) — Javaの奥深さを教えてくれた人  
+  
+  
+![Me1td0wn76's GitHub stats](https://github-readme-stats.vercel.app/api?username=Me1td0wn76&show_icons=true&theme=tokyonight)  
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Me1td0wn76&layout=compact)  
+
+
 <!--
 **Me1td0wn76/Me1td0wn76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
