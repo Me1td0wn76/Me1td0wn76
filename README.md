@@ -2,7 +2,6 @@
 
 こんにちは！Me1td0wn76のGitHubプロフィールへようこそ。
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Me1td0wn76/langs)](https://githubtrends.io)  
 
 ### 🛠️ skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,docker,django,dotnet,github,git,gradle,java,mysql,nodejs,react,ts,vite,vscode,powershell,npm,cpp,astro,py,threejs,vue,express,gcp,idea,kubernetes,linux,md,php,spring,tailwind,ubuntu,vue,vercel)](https://skillicons.dev)
