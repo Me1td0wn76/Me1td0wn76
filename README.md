@@ -3,7 +3,7 @@
 こんにちは！Me1td0wn76のGitHubプロフィールへようこそ。
 
 ### 🛠️ skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,docker,django,dotnet,github,git,gradle,java,mysql,nodejs,react,ts,vite,vscode,powershell,npm,cpp,astro,py,threejs,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,docker,django,dotnet,github,git,gradle,java,mysql,nodejs,react,ts,vite,vscode,powershell,npm,cpp,astro,py,threejs,vue,express,gcp,idea,kubernetes,linux,md,php,spring,tailwind)](https://skillicons.dev)
   
   
 ### 🌱 今取り組んでいること
