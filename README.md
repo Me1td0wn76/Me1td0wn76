@@ -4,7 +4,7 @@
 
 
 ### 🛠️ skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,docker,django,dotnet,github,git,gradle,java,mysql,nodejs,react,ts,vite,vscode,powershell,npm,cpp,astro,py,threejs,vue,express,gcp,idea,kubernetes,linux,md,php,spring,tailwind,ubuntu,vue,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,docker,github,git,java,mysql,nodejs,react,ts,vite,powershell,npm,cpp,astro,py,threejs,vue,gcp,idea,linux,md,spring,tailwind,ubuntu,vue,vercel)](https://skillicons.dev)
   
   
 ### 🌱 今取り組んでいること
