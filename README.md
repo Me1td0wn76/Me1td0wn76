@@ -27,6 +27,7 @@
 ![Me1td0wn76's GitHub stats](https://github-readme-stats.vercel.app/api?username=Me1td0wn76&show_icons=true&theme=tokyonight)  
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Me1td0wn76&layout=compact)  
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sinaetown" alt="Solved.ac Profile" />
 
 
 <!--
