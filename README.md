@@ -26,8 +26,8 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Me1td0wn76)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Me1td0wn76)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](
+https://github-profile-trophy.vercel.app/?username=Me1td0wn76&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
