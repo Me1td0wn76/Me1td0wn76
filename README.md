@@ -24,9 +24,10 @@
 - 尊敬する師匠: [@torasuke](https://github.com/torasuke-cse) — Javaの奥深さを教えてくれた人  
   
   
-![Me1td0wn76's GitHub stats](https://github-readme-stats.vercel.app/api?username=Me1td0wn76&show_icons=true&theme=tokyonight)  
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Me1td0wn76&layout=compact)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Me1td0wn76)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Me1td0wn76)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
