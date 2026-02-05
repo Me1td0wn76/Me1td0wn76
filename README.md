@@ -23,6 +23,7 @@
 
 - 尊敬する師匠: [@torasuke](https://github.com/torasuke-cse) — Javaの奥深さを教えてくれた人  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Me1td0wn76&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Me1td0wn76&show_icons=true&theme=onedark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Me1td0wn76&layout=compact&theme=onedark&locale=ja)
 
 
