@@ -10,6 +10,7 @@
 ### 🌱 今取り組んでいること
 - 新しいWebアプリの開発
 - Pythonの画像処理
+- 医療系のシステムをフルスタックで作成中
 
 ### 💬 お問い合わせ
 - Twitter: [@Pretendepretenders_001](https://x.com/pretenders_001)  
