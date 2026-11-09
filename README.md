@@ -1,4 +1,4 @@
-## こんちゃ 👋
+## こんちゃ
 
 こんにちは！Me1td0wn76のGitHubプロフィールへようこそ。
 
@@ -16,13 +16,7 @@
 - Twitter: [@Pretendepretenders_001](https://x.com/pretenders_001)  
   
 ### Blog
-[yama-pro](https://yama-pro.blog/)
-### ⚡ 一言
-人生、だいたいJavaでなんとかなる。  
-  
-### 💡 私の師匠
-
-- 尊敬する師匠: [@torasuke](https://github.com/torasuke-cse) — Javaの奥深さを教えてくれた人  
+[yama-pro](https://yama-pro.blog/) 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Me1td0wn76&show_icons=true&theme=onedark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Me1td0wn76&layout=compact&theme=onedark&locale=ja)
